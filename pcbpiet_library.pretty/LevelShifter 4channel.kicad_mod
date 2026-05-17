@@ -239,7 +239,7 @@
 		(uuid "980e0e30-0377-4d68-a554-67e7ea2979f5")
 	)
 	(embedded_fonts no)
-	(model "${KICAD10_3RD_PARTY}/pcbpiet_library.pretty/LevelShifter.wrl"
+	(model "${KICAD10_3RD_PARTY}/pcbpiet_library/pcbpiet_library.pretty/LevelShifter.wrl"
 		(offset
 			(xyz 0 -6.4 -0.9)
 		)

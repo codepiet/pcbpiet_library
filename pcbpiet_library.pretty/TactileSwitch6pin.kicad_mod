@@ -116,7 +116,7 @@
 		(uuid "9aa7db88-7d46-495d-b98a-5ed7e710c177")
 	)
 	(embedded_fonts no)
-	(model "${KICAD10_3RD_PARTY}/pcbpiet_library.pretty/TactileSwitch6mm v1.step"
+	(model "${KICAD10_3RD_PARTY}/pcbpiet_library/pcbpiet_library.pretty/TactileSwitch6mm v1.step"
 		(offset
 			(xyz 0 -7 0.2)
 		)

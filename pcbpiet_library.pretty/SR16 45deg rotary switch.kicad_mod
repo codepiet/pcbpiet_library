@@ -181,7 +181,7 @@
 		(uuid "6035a89f-bc3b-4289-a4dc-5e27b6e612f5")
 	)
 	(embedded_fonts no)
-	(model "${KICAD10_3RD_PARTY}/pcbpiet_library.pretty/SR16 45deg Rotary Switch v1.step"
+	(model "${KICAD10_3RD_PARTY}/pcbpiet_library/pcbpiet_library.pretty/SR16 45deg Rotary Switch v1.step"
 		(offset
 			(xyz 0 0 0)
 		)
