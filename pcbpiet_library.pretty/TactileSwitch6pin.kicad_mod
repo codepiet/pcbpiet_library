@@ -1,0 +1,130 @@
+(footprint "TactileSwitch6pin"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "5510f97e-48e4-450a-b85e-9abd4332c3f7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "TactileSwitch6pin"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a4ffccd0-e969-44e0-a8a2-64cf524bcd21")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c7fe2675-b702-4af8-ac34-9978a5bf2edc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ae75ac01-2543-45bd-835a-82b343e5c97d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "5f3f71ac-fbd4-4919-8bf1-f266ee8ca7b6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 2 4.5)
+		(size 1.6 1.6)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "00d8709e-3bb3-4463-9701-9b2c572028d3")
+	)
+	(pad "2" thru_hole circle
+		(at 0 4.5)
+		(size 1.6 1.6)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "86debb23-a64b-4acc-ad78-8ab2eb5c3698")
+	)
+	(pad "3" thru_hole circle
+		(at -2 4.5)
+		(size 1.6 1.6)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "62ab0eee-91c1-45aa-95f5-74c4cb39619e")
+	)
+	(pad "4" thru_hole circle
+		(at -2 9.5)
+		(size 1.6 1.6)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ff4efef9-d888-4016-8d0f-49403556747d")
+	)
+	(pad "5" thru_hole circle
+		(at 0 9.5)
+		(size 1.6 1.6)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "52dbdf48-bc9d-4ead-a28e-a1235e17c436")
+	)
+	(pad "6" thru_hole circle
+		(at 2 9.5)
+		(size 1.6 1.6)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9aa7db88-7d46-495d-b98a-5ed7e710c177")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3RD_PARTY}/pcbpiet_library.pretty/TactileSwitch6mm v1.step"
+		(offset
+			(xyz 0 -7 0.2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
